@@ -21,7 +21,7 @@ challenge'ı en geç 3 Mart 2027 tarihinde tamamlamayı hedefliyorum.)
 
 ## İlerleme Durumu
 
-Tamamlanan Gün: 0 / 100
+Tamamlanan Gün: 1 / 100
 
 ## Depo İçeriği
 
